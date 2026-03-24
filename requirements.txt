@@ -6,4 +6,4 @@ opencv-python==4.0.0.21
 matplotlib==3.0.2
 scipy==1.4.1
 websocket-client==0.48.0
-Flask==1.1.2
+Flask==3.1.3
